@@ -12,3 +12,4 @@ public class register extends AppCompatActivity {
         setContentView(R.layout.activity_register);
     }
 }
+//delete
